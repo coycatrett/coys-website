@@ -1,2 +1,2 @@
 # coys-website
-Coy Catrett's Personal Webpage
+Coy Catrett's Personal Website
